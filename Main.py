@@ -212,7 +212,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p> <a href="https://www.instagram.com/dzakkidamar/" target="_blank">024 Dzak</a></p>
+<p> 024 Dzak</p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
