@@ -212,7 +212,7 @@ text-align: center;
 }
 </style>
 <div class="footer">
-<p>Developed with  ❤ by <a style='display: block; text-align: center;' href="https://www.heflin.dev/" target="_blank">Samir.s.s</a></p>
+<p> <a href="https://www.instagram.com/dzakkidamar/" target="_blank">024 Dzak</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
