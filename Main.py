@@ -13,7 +13,7 @@ import plotly.subplots as sp
 import plotly.graph_objects as go
 
 #page behaviour
-st.set_page_config(page_title="024_Project Akhir EAS - Streamlit", page_icon="🌎", layout="wide")  
+st.set_page_config(page_title="024_Project Akhir EAS - Streamlit", page_icon="😻", layout="wide")  
 
 #remove default theme
 theme_plotly = None # None or streamlit
