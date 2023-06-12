@@ -1,3 +1,6 @@
+# Project Akhir EAS Prokom #
+# 024 Dzakki #
+#####
 import streamlit as st
 import pandas as pd 
 import streamlit.components.v1 as stc
